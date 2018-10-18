@@ -1,6 +1,6 @@
 package ContainerWithMostWater;
 
-public class Solution {
+public class Container {
     private static int maxArea(int[] height) {
         int length = height.length, area = 0;
         for (var i = 0; i < length - 1; i++)

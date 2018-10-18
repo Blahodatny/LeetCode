@@ -1,6 +1,6 @@
 package AddBinary;
 
-public class LeetCodeSolution {
+public class LeetCodeAddBinary {
     private static String addBinary(String a, String b) {
         var sb = new StringBuilder();
         int i = a.length() - 1, j = b.length() - 1, carry = 0;

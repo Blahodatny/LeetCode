@@ -2,7 +2,7 @@ package TwoSum;
 
 import java.util.Arrays;
 
-public class Solution {
+public class TwoSum {
     private static int[] twoSum(int[] numbers, int target) {
         int i = 0, j = 1;
         while (true) {
