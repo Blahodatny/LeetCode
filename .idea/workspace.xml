@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a9494c04-f0ec-4e43-a057-1ac2259f75ca" name="Default Changelist" comment="Done">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ContainerWithMostWater/Container.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ContainerWithMostWater/Container.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task/Task.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task/Validator.java" beforeDir="false" />
-    </list>
+    <list default="true" id="a9494c04-f0ec-4e43-a057-1ac2259f75ca" name="Default Changelist" comment="Done" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -24,57 +19,6 @@
   </component>
   <component name="CoverageViewManager">
     <option name="myElementSize" value="240" />
-  </component>
-  <component name="FUSProjectUsageTrigger">
-    <session id="-643456571">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="16" />
-          <entry key="project.open.time.1" value="4" />
-          <entry key="project.open.time.16" value="1" />
-          <entry key="project.open.time.18" value="1" />
-          <entry key="project.open.time.21" value="1" />
-          <entry key="project.open.time.5" value="1" />
-          <entry key="project.open.time.79" value="1" />
-          <entry key="project.open.time.82" value="1" />
-          <entry key="project.open.time.84" value="2" />
-          <entry key="project.open.time.85" value="1" />
-          <entry key="project.open.time.89" value="1" />
-          <entry key="project.open.time.90" value="1" />
-          <entry key="project.open.time.93" value="1" />
-          <entry key="project.open.time.99" value="1" />
-          <entry key="project.opened" value="17" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="java" value="10212" />
-          <entry key="txt" value="8" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="JAVA" value="10212" />
-          <entry key="PLAIN_TEXT" value="8" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.js.language.service.starts" />
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="java" value="91" />
-          <entry key="png" value="2" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="Image" value="2" />
-          <entry key="JAVA" value="91" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.spring.boot.run.usages" />
-      <usages-collector id="statistics.spring.boot.mvc.usages" />
-      <usages-collector id="statistics.vcs.git.usages" />
-    </session>
   </component>
   <component name="FileEditorManager">
     <leaf />
@@ -116,12 +60,6 @@
         <option value="$PROJECT_DIR$/src/ContainerWithMostWater/Container.java" />
       </list>
     </option>
-  </component>
-  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsGulpfileManager">
-    <detection-done>true</detection-done>
-    <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="25" />
@@ -184,15 +122,15 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540312163942" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Pictures/project" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Hibernate/lab" />
     <property name="settings.editor.selected.configurable" value="configurable.group.build" />
   </component>
   <component name="RunDashboard">
@@ -255,6 +193,9 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="SQLPlugin.ProjectConfiguration">
+    <queries />
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -282,22 +223,25 @@
       <workItem from="1540242875561" duration="58000" />
       <workItem from="1540299644361" duration="1165000" />
       <workItem from="1540325976186" duration="51000" />
+      <workItem from="1547559922820" duration="9000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="108122000" />
+    <option name="totallyTimeSpent" value="108131000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="27" width="1920" height="1053" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1280683" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12913553" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Favorites" order="5" side_tool="true" />
       <window_info id="Capture Tool" order="6" />
+      <window_info anchor="bottom" id="SQL" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32864866" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.19868995" />
@@ -312,6 +256,7 @@
       <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="12" show_stripe_button="false" />
       <window_info anchor="bottom" id="ANTLR Preview" order="13" />
+      <window_info anchor="right" id="Maven" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -326,9 +271,6 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
-  </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Done" />
