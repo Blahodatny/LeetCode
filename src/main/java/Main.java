@@ -2,7 +2,7 @@ import java.util.Arrays;
 import java.util.stream.Collectors;
 import java.util.stream.IntStream;
 
-public class Main {
+class Main {
     private static boolean isPrime(int n) {
         if (n < 2) return false;
         if (n == 2 || n == 3) return true;
