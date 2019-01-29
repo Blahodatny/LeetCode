@@ -1,31 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a9494c04-f0ec-4e43-a057-1ac2259f75ca" name="Default Changelist" comment="Done">
-      <change afterPath="$PROJECT_DIR$/src/main/java/BinarySearch/BinarySearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ReverseInteger/Solution.java" afterDir="false" />
+    <list default="true" id="49896ab1-6680-408e-bb00-aec10f726c60" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/LeetCode.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/dima.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Palindrome.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Palindrome.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Palindrome/task.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AddBinary/AddBinary.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/AddBinary/AddBinary.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AddBinary/LeetCodeAddBinary.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/AddBinary/LeetCodeAddBinary.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AddBinary/task.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/AddBinary/task.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AddTwoNumbers/ListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/AddTwoNumbers/ListNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AddTwoNumbers/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/AddTwoNumbers/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AddTwoNumbers/Solutions/LeetCodeSolution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/AddTwoNumbers/Solutions/LeetCodeSolution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AddTwoNumbers/Solutions/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/AddTwoNumbers/Solutions/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AddTwoNumbers/task.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/AddTwoNumbers/task.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ContainerWithMostWater/Container.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ContainerWithMostWater/Container.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ContainerWithMostWater/task.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ContainerWithMostWater/task.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MultiplyStrings/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/MultiplyStrings/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MultiplyStrings/task.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/MultiplyStrings/task.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ReverseInteger/Solution.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ReverseInteger/task.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ReverseInteger/task.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ThreeSum/ThreeSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ThreeSum/ThreeSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ThreeSum/task.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ThreeSum/task.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TwoSum/TwoSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/TwoSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TwoSum/task.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/TwoSum/task.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Palindrome.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Palindrome/AddBinary/task.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Palindrome/AddTwoNumbers/task.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Palindrome/ContainerWithMostWater/task.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Palindrome/META-INF/Palindrome.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Palindrome/MultiplyStrings/task.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Palindrome/ReverseInteger/task.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Palindrome/ThreeSum/task.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Palindrome/TwoSum/task.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/task.jpg" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -34,36 +29,18 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="CodeInsightWorkspaceSettings">
-    <option name="optimizeImportsOnTheFly" value="true" />
-  </component>
-  <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/Palindrome$Solution.ic" NAME="Solution Coverage Results" MODIFIED="1539095714899" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
-      <FILTER>ContainerWithMostWater.*</FILTER>
-    </SUITE>
-  </component>
-  <component name="CoverageViewManager">
-    <option name="myElementSize" value="240" />
-  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/BinarySearch/BinarySearch.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Palindrome/Palindrome.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="13" column="18" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
+            <state relative-caret-position="571">
+              <caret line="38" column="9" lean-forward="true" selection-start-line="38" selection-start-column="9" selection-end-line="38" selection-end-column="9" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
-  </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
-    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -71,42 +48,7 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Solution.java" />
-        <option value="$PROJECT_DIR$/src/AddTwoNumbers/Solution.java" />
-        <option value="$PROJECT_DIR$/src/AddTwoNumbers/LeetCodeSolution.java" />
-        <option value="$PROJECT_DIR$/src/AddTwoNumbers/ListNode.java" />
-        <option value="$PROJECT_DIR$/src/AddTwoNumbers/Solutions/LeetCodeSolution.java" />
-        <option value="$PROJECT_DIR$/src/AddTwoNumbers/Solutions/Solution.java" />
-        <option value="$PROJECT_DIR$/src/AddTwoNumbers/Main.java" />
-        <option value="$PROJECT_DIR$/src/Task/Main.java" />
-        <option value="$PROJECT_DIR$/src/TwoSum/Solution.java" />
-        <option value="$PROJECT_DIR$/src/TwoSum/TwoSum.java" />
-        <option value="$PROJECT_DIR$/src/ThreeSum/Solution.java" />
-        <option value="$PROJECT_DIR$/src/ThreeSum/ThreeSum.java" />
-        <option value="$PROJECT_DIR$/src/ContainerWithMostWater/Solution.java" />
-        <option value="$PROJECT_DIR$/src/AddBinary/Solution.java" />
-        <option value="$PROJECT_DIR$/src/AddBinary/AddBinary.java" />
-        <option value="$PROJECT_DIR$/src/AddBinary/LeetCodeSolution.java" />
-        <option value="$PROJECT_DIR$/src/AddBinary/LeetCodeAddBinary.java" />
-        <option value="$PROJECT_DIR$/src/Task/Validator.java" />
-        <option value="$PROJECT_DIR$/src/Task/Task.java" />
-        <option value="$PROJECT_DIR$/src/ContainerWithMostWater/Container.java" />
-        <option value="$PROJECT_DIR$/src/ReverseInteger/Solution.java" />
-        <option value="$PROJECT_DIR$/src/Main.java" />
-        <option value="$PROJECT_DIR$/src/TwoSum/ап.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Main.java" />
-        <option value="$PROJECT_DIR$/src/main/java/TwoSum.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ThreeSum/ThreeSum.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ReverseInteger/Solution.java" />
-        <option value="$PROJECT_DIR$/src/main/java/MultiplyStrings/Solution.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ContainerWithMostWater/Container.java" />
-        <option value="$PROJECT_DIR$/src/main/java/AddTwoNumbers/ListNode.java" />
-        <option value="$PROJECT_DIR$/src/main/java/AddBinary/AddBinary.java" />
-        <option value="$PROJECT_DIR$/src/main/java/AddBinary/LeetCodeAddBinary.java" />
-        <option value="$PROJECT_DIR$/src/main/java/AddTwoNumbers/Solutions/LeetCodeSolution.java" />
-        <option value="$PROJECT_DIR$/src/main/java/AddTwoNumbers/Solutions/Solution.java" />
-        <option value="$PROJECT_DIR$/src/main/java/AddTwoNumbers/Main.java" />
-        <option value="$PROJECT_DIR$/src/main/java/BinarySearch/BinarySearch.java" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -116,48 +58,11 @@
     <option name="width" value="1920" />
     <option name="height" value="1082" />
   </component>
-  <component name="ProjectInspectionProfilesVisibleTreeState">
-    <entry key="Project Default">
-      <profile-state>
-        <expanded-state>
-          <State />
-          <State>
-            <id>Code style issuesJava</id>
-          </State>
-          <State>
-            <id>Control flow issuesJava</id>
-          </State>
-          <State>
-            <id>Java</id>
-          </State>
-          <State>
-            <id>Java 8Java language level migration aidsJava</id>
-          </State>
-          <State>
-            <id>Java language level migration aidsJava</id>
-          </State>
-          <State>
-            <id>Probable bugsJava</id>
-          </State>
-        </expanded-state>
-        <selected-state>
-          <State>
-            <id>Convert2streamapi</id>
-          </State>
-        </selected-state>
-      </profile-state>
-    </entry>
-  </component>
-  <component name="ProjectLevelVcsManager">
-    <ConfirmationsSetting value="2" id="Add" />
-  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Course" />
-      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -184,26 +89,27 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="Palindrome" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Course" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548356727156" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Design_Patterns/patterns" />
-    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548771889737" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.30861422" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.build" />
-  </component>
-  <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/main/java" />
-    </key>
+    <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -217,410 +123,91 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.BinarySearch">
-    <configuration name="BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BinarySearch.BinarySearch" />
-      <module name="Palindrome" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="BinarySearch.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.project.Main" />
+      <module name="LeetCode" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="Palindrome" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Task.Main" />
-      <module name="Palindrome" />
-      <option name="PROGRAM_PARAMETERS" value="0011" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Task.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ReverseInteger.Solution" />
-      <module name="Palindrome" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ReverseInteger.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Task" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Task.Task" />
-      <module name="Palindrome" />
-      <option name="PROGRAM_PARAMETERS" value="0" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Task.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <list>
-      <item itemvalue="Application.Task" />
-      <item itemvalue="Application.Main" />
-      <item itemvalue="Application.Solution" />
-      <item itemvalue="Application.BinarySearch" />
-    </list>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.BinarySearch" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Solution" />
-        <item itemvalue="Application.Task" />
-        <item itemvalue="Application.Main" />
-      </list>
-    </recent_temporary>
-  </component>
-  <component name="SQLPlugin.ProjectConfiguration">
-    <queries />
   </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="a9494c04-f0ec-4e43-a057-1ac2259f75ca" name="Default Changelist" comment="" />
-      <created>1538393197730</created>
+      <changelist id="49896ab1-6680-408e-bb00-aec10f726c60" name="Default Changelist" comment="" />
+      <created>1548770998231</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1538393197730</updated>
-      <workItem from="1538393203421" duration="27443000" />
-      <workItem from="1538733861562" duration="29535000" />
-      <workItem from="1539089066081" duration="892000" />
-      <workItem from="1539093005744" duration="9483000" />
-      <workItem from="1539678953603" duration="9557000" />
-      <workItem from="1539704731164" duration="896000" />
-      <workItem from="1539706151307" duration="8315000" />
-      <workItem from="1539761069544" duration="14197000" />
-      <workItem from="1539790921295" duration="4812000" />
-      <workItem from="1539848935414" duration="87000" />
-      <workItem from="1539852502864" duration="3000" />
-      <workItem from="1539870282141" duration="1334000" />
-      <workItem from="1539895693604" duration="67000" />
-      <workItem from="1539927631208" duration="227000" />
-      <workItem from="1540242875561" duration="58000" />
-      <workItem from="1540299644361" duration="1165000" />
-      <workItem from="1540325976186" duration="51000" />
-      <workItem from="1547559922820" duration="9000" />
+      <updated>1548770998231</updated>
     </task>
     <servers />
-  </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="108131000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1920" y="-2" width="1920" height="1082" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1280683" />
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2497332" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Designer" order="2" />
-      <window_info id="Image Layers" order="3" />
-      <window_info id="UI Designer" order="4" />
-      <window_info id="Favorites" order="5" side_tool="true" />
-      <window_info id="Capture Tool" order="6" />
+      <window_info anchor="bottom" id="Educational.CheckDetails" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32864866" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.21511018" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.27027026" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32972974" />
-      <window_info anchor="bottom" id="Tool Output" order="8" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.32843652" />
-      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="12" show_stripe_button="false" />
-      <window_info anchor="bottom" id="ANTLR Preview" order="13" />
-      <window_info anchor="bottom" id="SQL" order="14" />
-      <window_info anchor="bottom" id="Docker" order="15" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Educational.CheckDetails" order="16" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="right" id="Maven Projects" order="5" />
-      <window_info anchor="right" id="Database" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="7" />
-      <window_info anchor="right" id="Theme Preview" order="8" />
-      <window_info anchor="right" id="Coverage" order="9" side_tool="true" weight="0.32977587" />
-      <window_info anchor="right" id="Maven" order="10" />
     </layout>
-    <layout-to-restore>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13020277" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Designer" order="2" />
-      <window_info id="Image Layers" order="3" />
-      <window_info id="UI Designer" order="4" />
-      <window_info id="Favorites" order="5" side_tool="true" />
-      <window_info id="Capture Tool" order="6" />
-      <window_info anchor="bottom" id="Educational.CheckDetails" order="0" />
-      <window_info anchor="bottom" id="Message" order="1" />
-      <window_info anchor="bottom" id="Find" order="2" weight="0.32864866" />
-      <window_info active="true" anchor="bottom" id="Run" order="3" visible="true" weight="0.19097586" />
-      <window_info anchor="bottom" id="Debug" order="4" weight="0.27027026" />
-      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32972974" />
-      <window_info anchor="bottom" id="Tool Output" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.32843652" />
-      <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="13" show_stripe_button="false" />
-      <window_info anchor="bottom" id="ANTLR Preview" order="14" />
-      <window_info anchor="bottom" id="SQL" order="15" />
-      <window_info anchor="bottom" id="Docker" order="16" show_stripe_button="false" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="right" id="Maven Projects" order="5" />
-      <window_info anchor="right" id="Database" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="7" />
-      <window_info anchor="right" id="Theme Preview" order="8" />
-      <window_info anchor="right" id="Coverage" order="9" side_tool="true" weight="0.32977587" />
-      <window_info anchor="right" id="Maven" order="10" />
-    </layout-to-restore>
-  </component>
-  <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="Done" />
-    <option name="LAST_COMMIT_MESSAGE" value="Done" />
-  </component>
-  <component name="XDebuggerManager">
-    <watches-manager>
-      <configuration name="Application">
-        <watch expression="primeNumbers[7867]" language="JAVA" />
-      </configuration>
-    </watches-manager>
-  </component>
-  <component name="debuggerHistoryManager">
-    <expressions id="watch">
-      <expression>
-        <expression-string>primeNumbers[7867]</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>7868</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-    </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar:///usr/lib/jvm/java-10-oracle/lib/src.zip!/java.base/java/lang/Integer.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/AddBinary/task.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="jar:///usr/lib/jvm/jdk-11/lib/src.zip!/java.base/java/io/PrintStream.java" />
-    <entry file="file://$PROJECT_DIR$/src/Task/HashMap.java" />
-    <entry file="file://$PROJECT_DIR$/src/Task/Task.java" />
-    <entry file="file://$PROJECT_DIR$/src/Task/Thrower.java" />
-    <entry file="file://$PROJECT_DIR$/src/Task/Validator.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/ReverseInteger/task.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="jar:///usr/lib/jvm/java-11-oracle/lib/src.zip!/java.base/java/util/Collection.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="188">
-          <caret line="234" column="6" lean-forward="true" selection-start-line="234" selection-start-column="6" selection-end-line="234" selection-end-column="6" />
+    <entry file="file://$PROJECT_DIR$/LICENSE.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ContainerWithMostWater/task.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="jar:///usr/lib/jvm/java-11-oracle/lib/src.zip!/java.base/java/util/List.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-7792">
-          <caret line="146" column="7" lean-forward="true" selection-start-line="146" selection-start-column="7" selection-end-line="146" selection-end-column="7" />
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/MultiplyStrings/task.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="jrt:///usr/lib/jvm/java-11-oracle!/java.base/javax/net/ssl/HostnameVerifier.class">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        <state relative-caret-position="746">
+          <caret line="25" column="6" selection-start-line="25" selection-start-column="6" selection-end-line="25" selection-end-column="6" />
         </state>
       </provider>
     </entry>
-    <entry file="jrt:///usr/lib/jvm/java-11-oracle!/java.base/javax/net/ssl/ManagerFactoryParameters.class">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Palindrome/Palindrome.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jrt:///usr/lib/jvm/java-11-oracle!/java.base/javax/net/ssl/HandshakeCompletedListener.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jrt:///usr/lib/jvm/java-11-oracle!/java.base/javax/net/ssl/SSLSessionContext.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="12" column="32" selection-start-line="12" selection-start-column="32" selection-end-line="12" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///usr/lib/jvm/java-11-oracle/lib/src.zip!/java.compiler/javax/annotation/processing/Filer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3150">
-          <caret line="132" column="17" selection-start-line="132" selection-start-column="17" selection-end-line="132" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///usr/lib/jvm/java-11-oracle/lib/src.zip!/java.compiler/javax/annotation/processing/ProcessingEnvironment.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="843">
-          <caret line="60" column="17" selection-start-line="60" selection-start-column="17" selection-end-line="60" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/TwoSum/ап.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="4" column="5" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///usr/lib/jvm/java-11-oracle/lib/src.zip!/java.base/java/lang/Long.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="58" column="19" selection-start-line="58" selection-start-column="19" selection-end-line="58" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/TwoSum/task.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/TwoSum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="13" column="9" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ThreeSum/ThreeSum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="8" selection-start-column="8" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/MultiplyStrings/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="8" selection-start-column="8" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ContainerWithMostWater/Container.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="8" selection-start-column="8" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/AddTwoNumbers/ListNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/AddBinary/AddBinary.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="8" selection-start-column="8" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/AddBinary/LeetCodeAddBinary.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="8" selection-start-column="8" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/AddTwoNumbers/Solutions/LeetCodeSolution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/AddTwoNumbers/Solutions/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/AddTwoNumbers/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="15" column="23" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ReverseInteger/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="8" selection-start-column="8" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/BinarySearch/BinarySearch.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="13" column="18" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
+        <state relative-caret-position="571">
+          <caret line="38" column="9" lean-forward="true" selection-start-line="38" selection-start-column="9" selection-end-line="38" selection-end-column="9" />
         </state>
       </provider>
     </entry>
@@ -676,24 +263,12 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>Palindrome</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.30861422" />
-                <option value="0.6" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectJDKs.UI">
-        <settings>
-          <last-edited>11</last-edited>
+          <last-edited>LeetCode</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
                 <option value="0.2" />
+                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>
@@ -704,7 +279,7 @@
           <splitter-proportions>
             <option name="proportions">
               <list>
-                <option value="0.30861422" />
+                <option value="0.2" />
               </list>
             </option>
           </splitter-proportions>
