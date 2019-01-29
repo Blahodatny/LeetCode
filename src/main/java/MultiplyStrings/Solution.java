@@ -1,4 +1,4 @@
 package MultiplyStrings;
 
-public class Solution {
+class Solution {
 }

@@ -1,9 +1,8 @@
 package AddTwoNumbers;
 
-
 import static AddTwoNumbers.Solutions.LeetCodeSolution.addTwoNumbers;
 
-public class Main {
+class Main {
     public static void main(String[] args) {
         var l1 = new ListNode(6);
         l1.next = new ListNode(7);

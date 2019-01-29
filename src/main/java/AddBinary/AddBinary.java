@@ -2,7 +2,7 @@ package AddBinary;
 
 import java.util.Collections;
 
-public class AddBinary {
+class AddBinary {
     private static String addBinary(String a, String b) {
         var length = a.length() - b.length();
         var str = String.join("", Collections.nCopies(Math.abs(length), "0"));
