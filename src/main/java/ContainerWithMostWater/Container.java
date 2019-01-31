@@ -25,7 +25,7 @@ class Container {
     }
 
     public static void main(String[] args) {
-        System.out.println(maxArea(new int[]{1,8,6,2,5,4,8,3,7}));
-        System.out.println(leetMaxArea(new int[]{1,8,6,2,5,4,8,3,7}));
+        System.out.println(maxArea(new int[]{1, 8, 6, 2, 5, 4, 8, 3, 7}));
+        System.out.println(leetMaxArea(new int[]{1, 8, 6, 2, 5, 4, 8, 3, 7}));
     }
 }
