@@ -16,7 +16,9 @@ public class Solution {
         var sum = new StringBuilder();
         var summand = 0;
         for (var i = augend.length() - 1; i >= 0; i--) {
-            var value = Character.getNumericValue(augend.charAt(i)) + Character.getNumericValue(addend.charAt(i)) + summand;
+            var value =
+                    Character.getNumericValue(augend.charAt(i))
+                            + Character.getNumericValue(addend.charAt(i)) + summand;
             if (value >= 10) {
                 if (i != 0) {
                     value -= 10;

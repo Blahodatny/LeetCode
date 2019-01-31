@@ -15,7 +15,8 @@ class AddBinary {
         var sum = new StringBuilder();
         var summand = 0;
         for (var i = a.length() - 1; i >= 0; i--) {
-            var value = Character.getNumericValue(a.charAt(i)) + Character.getNumericValue(b.charAt(i)) + summand;
+            var value =
+                    Character.getNumericValue(a.charAt(i)) + Character.getNumericValue(b.charAt(i)) + summand;
             summand = value / 2;
             sum.insert(0, value % 2);
         }
