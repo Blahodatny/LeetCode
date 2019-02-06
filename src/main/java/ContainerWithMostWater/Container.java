@@ -5,7 +5,8 @@ class Container {
         int length = height.length, area = 0;
         for (var i = 0; i < length - 1; i++)
             for (var j = i + 1; j < length; j++) {
-                var temp = height[i] > height[j] ? height[j] * (j - i) : height[i] * (j - i);
+                var temp = height[i] > height[j] ? height[j] * (j - i) :
+                        height[i] * (j - i);
                 if (temp > area)
                     area = temp;
             }
