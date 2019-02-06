@@ -11,7 +11,8 @@ class LeetCodeAddBinary {
             sb.insert(0, sum % 2);
             carry = sum / 2;
         }
-        if (carry != 0) sb.insert(0, carry);
+        if (carry != 0)
+            sb.insert(0, carry);
         return sb.toString();
     }
 

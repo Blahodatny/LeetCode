@@ -6,8 +6,7 @@ class Solution {
             return Integer.parseInt(
                     new StringBuilder(
                             Integer.toString(x < 0 ? Math.abs(x) : x)
-                    )
-                            .reverse()
+                    ).reverse()
                             .insert(0, x < 0 ? "-" : null)
                             .toString()
             );

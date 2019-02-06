@@ -1,9 +1,9 @@
 package AddTwoNumbers.Solutions;
 
-import AddTwoNumbers.ListNode;
+import AddTwoNumbers.Node;
 
 public class Solution {
-    public static ListNode addTwoNumbers(ListNode l1, ListNode l2) {
+    public static Node addTwoNumbers(Node l1, Node l2) {
         var augend = new StringBuilder();
         var addend = new StringBuilder();
         while (l1 != null || l2 != null) {
@@ -16,9 +16,8 @@ public class Solution {
         var sum = new StringBuilder();
         var summand = 0;
         for (var i = augend.length() - 1; i >= 0; i--) {
-            var value =
-                    Character.getNumericValue(augend.charAt(i))
-                            + Character.getNumericValue(addend.charAt(i)) + summand;
+            var value = Character.getNumericValue(augend.charAt(i))
+                    + Character.getNumericValue(addend.charAt(i)) + summand;
             if (value >= 10) {
                 if (i != 0) {
                     value -= 10;
@@ -26,16 +25,13 @@ public class Solution {
                 }
             } else
                 summand = 0;
-
             sum.insert(0, value);
         }
 
-        var result = new ListNode(0);
+        var result = new Node(0);
         var list = result;
-        for (var i = sum.length() - 1; i >= 0; i--) {
-            result.next = new ListNode(Character.getNumericValue(sum.charAt(i)));
-            result = result.next;
-        }
+        for (var i = sum.length() - 1; i >= 0; i--)
+            result = result.next = new Node(Character.getNumericValue(sum.charAt(i)));
         return list.next;
     }
 }
